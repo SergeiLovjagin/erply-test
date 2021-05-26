@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/erply-test.iml" filepath="$PROJECT_DIR$/.idea/erply-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-typescript-social/.idea/react-typescript-social.iml" filepath="$PROJECT_DIR$/../react-typescript-social/.idea/react-typescript-social.iml" />
+    </modules>
+  </component>
+</project>

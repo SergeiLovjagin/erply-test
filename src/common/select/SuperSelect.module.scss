@@ -1,0 +1,23 @@
+.input {
+  width: 391px;
+  height: 45px;
+  padding-left: 14px;
+  background: #FFFFFF;
+  border: 1px solid #EFF1F3;
+  box-sizing: border-box;
+  font-family: SF Pro Display, serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  color: #727981;
+  margin-bottom: 16px;
+
+  &:focus-visible {
+    outline: none;
+  }
+}
+
+.required {
+  border: 1px solid red;
+}

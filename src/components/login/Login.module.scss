@@ -1,0 +1,52 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  .errorModule {
+    position: absolute;
+    width: 808px;
+    height: 44px;
+    top: 107px;
+    background: #FFFFFF;
+    border: 1px solid #E53051;
+    box-sizing: border-box;
+
+    span {
+      position: absolute;
+      width: 369px;
+      height: 16px;
+      left: 14px;
+      top: calc(50% - 16px / 2);
+      font-family: SF Pro Display, serif;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 16px;
+      color: #E53051;
+      opacity: 0.5;
+      text-align: left;
+    }
+  }
+
+  .form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    h2 {
+      font-family: SF Pro Display, serif;
+      margin-top: 176px;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 24px;
+      letter-spacing: 0em;
+      text-align: left;
+    }
+  }
+}
+
+
